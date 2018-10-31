@@ -1,0 +1,28 @@
+{
+  "name": "frisby-issues-494",
+  "version": "1.0.0",
+  "description": "test environment for frisby issues 494.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "swagger": "swagger"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H1Gdev/frisby-issues-494.git"
+  },
+  "keywords": [
+    "frisby",
+    "swagger"
+  ],
+  "author": "H1Gdev",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/H1Gdev/frisby-issues-494/issues"
+  },
+  "homepage": "https://github.com/H1Gdev/frisby-issues-494#readme",
+  "dependencies": {
+    "swagger": "^0.7.5",
+    "swagger-editor": "^3.6.12"
+  }
+}
