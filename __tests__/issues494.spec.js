@@ -19,7 +19,6 @@ it('issues 494', () => {
             request: {
                  headers: {
                       'Authorization': sessionToken,
-                      'Content-Type': 'multipart/form-data; boundary=' + form.getBoundary(),
                  }
             }
         })
