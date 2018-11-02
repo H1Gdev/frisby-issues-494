@@ -26,6 +26,7 @@
     "swagger-editor": "^3.6.12"
   },
   "devDependencies": {
+    "chakram": "^1.5.0",
     "frisby": "^2.1.0",
     "jest": "^23.6.0"
   }
